@@ -14,4 +14,5 @@ public class LinearSearchInString {
         }
         return false;
     }
+
 }
