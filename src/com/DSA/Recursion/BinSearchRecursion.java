@@ -4,7 +4,7 @@ import java.lang.*;
 public class BinSearchRecursion {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
-        System.out.println("enter the size of an array:\n");
+                System.out.println("enter the size of an array:\n");
         int n = input.nextInt();
         ArrayList<Integer> arr= new ArrayList<Integer>();
         for(int i=0;i<n;i++){

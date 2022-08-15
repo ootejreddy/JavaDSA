@@ -9,7 +9,6 @@ public class Factorial {
         int n = input.nextInt();
         int result = factorial(n);
         System.out.println(result);
-
     }
     static int factorial(int n){
         if(n<2){
